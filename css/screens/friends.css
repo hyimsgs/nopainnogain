@@ -3,7 +3,11 @@
   justify-content: center;
   background-color: #f9f9f9;
   padding: 15px 0px;
+  margin-bottom: 10px;
 }
 #Friends-screen i {
   color: rgba(0, 0, 0, 0.3);
+}
+.friends-screen {
+  padding: 0px var(--horinzontal-space);
 }
